@@ -18,6 +18,6 @@ def armstrong(num):
 num = int(input("Enter a number: "))
 
 if armstrong(num):
-    print("Armstrong Number")
+    print("The given number is a Armstrong Number")
 else:
-    print("Not an Armstrong Number")
+    print("The given number is a Not an Armstrong Number")
